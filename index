@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
+    <body>
   <head>
     <title>My First Website</title>
   </head>
-  <body>
         <h1>Hello World!</h1>
         <h2>A small little subheader</h2>
     <p>This is my very first website.</p>
